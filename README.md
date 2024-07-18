@@ -34,8 +34,4 @@ we have follow the these steps:
     Retrieve IDF from the idf_values dictionary.
     Compute TF-IDF as the product of TF and IDF.
     Store TF-IDF weights for each term under the corresponding document ID in tfidf_weights dictionary.
-Contributors:
-Hasnain Raza - i221996@nu.edu.pk
-Taha Tariq - i222014@nu.edu.pk
-Haider Akbar - i221913@nu.edu.pk 
 
